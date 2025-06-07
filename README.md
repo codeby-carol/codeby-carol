@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1e/68/4d/1e684d15ad21997f1a92adfae922cfe5.gif" alt="you been hacked" />
+  <img src="https://i.pinimg.com/originals/3f/9a/76/3f9a76e8f304e41d93a8bf6daefc5163.gif" alt="you been hacked" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9e7bb5&height=200&section=header&text=Hi,%20I'm%20Carolline!%20💻&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="https://imgur.com/a/RBRCmlX" alt="carolline"/>
+</p>
 
 ### ★ Sobre Mim
 Estudante de ADS, atualmente focando em progredir com front-end. Eu amo criar coisas estéticas e funcionais, então tenho interesse em futuramente me especializar em UX/UI Design e IA. Estou trabalhando em melhorar minhas habilidades e desenvolver projetos pessoais relacionados aos meus gostos e ao universo feminino. Cuz I'm just a girl 🎀

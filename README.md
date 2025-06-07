@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/0a/30/a0/0a30a0a0f15582baf12b1ccadbd23d4c.jpg" alt="you been hacked" />
+  <img src="https://i.pinimg.com/originals/1e/68/4d/1e684d15ad21997f1a92adfae922cfe5.gif" alt="you been hacked" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9e7bb5&height=200&section=header&text=Hi,%20I'm%20Carolline!%20💻&fontSize=35&fontColor=ffffff&animation=fadeIn" />

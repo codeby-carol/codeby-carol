@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/dG16mjk" alt="carolline"/>
+  <img src="https://i.postimg.cc/2St56Fgc/Caroll-Space.gif" alt="carolline" />
 </p>
 
 ### ★ Sobre Mim

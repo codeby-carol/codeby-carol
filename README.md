@@ -1,10 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9e7bb5&height=200&section=header&text=Hi,%20I'm%20Carolline!%20💻&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 ### ★ Sobre Mim
-Estudante de ADS
-Interesse em especialização em UX/UI Design e IA
-Atualmente aprendendo desenvolvimento Front-End
-Apaixonada por moda, autocuidado, tech e Formula 1 🚗
+Estudante de ADS, atualmente focando em progredir com front-end. Eu amo criar coisas estéticas e funcionais, então tenho interesse em futuramente me especializar em UX/UI Design e IA. Estou trabalhando em melhorar minhas habilidades e desenvolver projetos pessoais relacionados aos meus gostos e ao universo feminino. Cuz I'm just a girl 🎀
 
 ---
 
